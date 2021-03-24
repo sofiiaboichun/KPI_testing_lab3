@@ -1,0 +1,15 @@
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб3\AutorizTestometrikaPageTest\AutorizTestometrikaPageTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб3\AutorizTestometrikaPageTest\AutorizTestometrikaPageTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб3\AutorizTestometrikaPageTest\AutorizTestometrikaPageTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб3\AutorizTestometrikaPageTest\AutorizTestometrikaPageTest\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб3\AutorizTestometrikaPageTest\AutorizTestometrikaPageTest\bin\Debug\netcoreapp2.1\AutorizTestometrikaPageTest.deps.json
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб3\AutorizTestometrikaPageTest\AutorizTestometrikaPageTest\bin\Debug\netcoreapp2.1\AutorizTestometrikaPageTest.runtimeconfig.json
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб3\AutorizTestometrikaPageTest\AutorizTestometrikaPageTest\bin\Debug\netcoreapp2.1\AutorizTestometrikaPageTest.runtimeconfig.dev.json
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб3\AutorizTestometrikaPageTest\AutorizTestometrikaPageTest\bin\Debug\netcoreapp2.1\AutorizTestometrikaPageTest.dll
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб3\AutorizTestometrikaPageTest\AutorizTestometrikaPageTest\obj\Debug\netcoreapp2.1\AutorizTestometrikaPageTest.csprojAssemblyReference.cache
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб3\AutorizTestometrikaPageTest\AutorizTestometrikaPageTest\obj\Debug\netcoreapp2.1\AutorizTestometrikaPageTest.csproj.CoreCompileInputs.cache
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб3\AutorizTestometrikaPageTest\AutorizTestometrikaPageTest\obj\Debug\netcoreapp2.1\AutorizTestometrikaPageTest.AssemblyInfoInputs.cache
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб3\AutorizTestometrikaPageTest\AutorizTestometrikaPageTest\obj\Debug\netcoreapp2.1\AutorizTestometrikaPageTest.AssemblyInfo.cs
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб3\AutorizTestometrikaPageTest\AutorizTestometrikaPageTest\bin\Debug\netcoreapp2.1\AutorizTestometrikaPageTest.pdb
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб3\AutorizTestometrikaPageTest\AutorizTestometrikaPageTest\obj\Debug\netcoreapp2.1\AutorizTestometrikaPageTest.dll
+D:\ФІОТ\3ий курс\6ой семестр\КПИ\Лаб3\AutorizTestometrikaPageTest\AutorizTestometrikaPageTest\obj\Debug\netcoreapp2.1\AutorizTestometrikaPageTest.pdb
